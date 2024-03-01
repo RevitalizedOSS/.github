@@ -1,0 +1,14 @@
+{
+    "name": "RevitalizedOSS Workflow",
+    "description": "RevitalizedOSS CI starter workflow.",
+    "iconName": "example-icon",
+    "categories": [
+      "CI",
+      "Test"  
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
